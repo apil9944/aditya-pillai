@@ -1,1 +1,10 @@
+title: Aditya Pillai # your name (or website title) here
+logo: "/images/logo.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Data Science and Finance at the University of Sydney
+  <br><br>
+  Second description 
+  <br><br>
+  <a href="https://www.linkedin.com/in/aditya-pillai-baa01b181/">View My LinkedIn Profile</a> 
+  
 theme: jekyll-theme-minimal
