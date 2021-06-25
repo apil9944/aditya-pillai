@@ -8,6 +8,8 @@ Gathered and integrated several datasets to perform a data analysis of the *vira
 ---
 
 ## ML Diabetes Prediction
+This study aimed to assess the performance of classifiers that predict the presence of diabetes for individuals of Pima Indian heritage, with a focus on the effect of Correlation-based Feature Selection.
+
 ---
 
 ## Bodyfat Regression Analysis
