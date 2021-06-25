@@ -11,6 +11,7 @@ Gathered and integrated several datasets to perform a data analysis of the *vira
 ---
 
 ## Bodyfat Regression Analysis
----
-
+ 
+<center><img src="images/bodyfat-1.png"/></center>
+<center><img src="bf-2.png"/></center>
 
