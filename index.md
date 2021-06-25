@@ -14,5 +14,5 @@ Gathered and integrated several datasets to perform a data analysis of the *vira
  
 <center><img src="images/bf-1.png"/></center>
 
-<center><img src="bf-2.png"/></center>
+<center><img src="images/bf-2.png"/></center>
 
