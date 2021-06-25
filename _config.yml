@@ -3,10 +3,11 @@ title: <p align="center"> Aditya Pillai </p>
 logo: "/images/headshot-new.png?raw=true" # your photo (or logo) here
 
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  <p align="center">
   Data Science and Finance at the University of Sydney
   <br><br>
   <a href="https://www.linkedin.com/in/aditya-pillai-baa01b181/"> LinkedIn </a> |
-  
   <a href="https://github.com/apil9944">GitHub</a>
+  </p>
   
 theme: jekyll-theme-minimal
