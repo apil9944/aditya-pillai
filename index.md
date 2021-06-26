@@ -15,7 +15,9 @@ Gathered and integrated several datasets to perform a data analysis of the viral
 <p align="justify">
 Visualised COVID-19 data from the first several weeks of the outbreak to see at what point this virus became a global pandemic using R.
 </p>
-<img src="images/visualising-covid-1.png" width="200"/> <img src="images/visualising-covid-2.png" width="200"/>
+<center>
+<img src="images/visualising-covid-1.png" width="300"/> <img src="images/visualising-covid-2.png" width="300"/>
+</center>
  
 ---
 ## Predictive Health Analysis
