@@ -9,12 +9,14 @@ Gathered and integrated several datasets to perform a data analysis of the viral
 
 <center><img src="images/covid-heatmap.png"/></center>
 </p>
----
+
 
 ### Visualising COVID-19 Outbreak
 <p align="justify">
 Visualised COVID-19 data from the first several weeks of the outbreak to see at what point this virus became a global pandemic using R.
- 
+
+ <center><img src="images/visualising-covid-1.png"/></center>
+ <center><img src="images/visualising-covid-2.png"/></center>
 </p>
 
 ## Predictive Health Analysis
