@@ -25,7 +25,7 @@ Visualised COVID-19 data from the first several weeks of the outbreak to see at 
 ---
 ## Predictive Health Analysis
 
-### ML Diabetes Prediction
+### Diabetes Prediction using Weka Classifiers
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/apil9944/diabetes-prediction-classifiers)
 
