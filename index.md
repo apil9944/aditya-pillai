@@ -24,6 +24,7 @@ Visualised COVID-19 data from the first several weeks of the outbreak to see at 
 <br> 
 
 </br>
+
 ---
 ## Predictive Health Analysis
 
