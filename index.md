@@ -15,7 +15,7 @@ Gathered and integrated several datasets to perform a data analysis of the viral
 ### Dynamic Hypothesis Testing App
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/apil9944/shiny-statistical-analysis)
-[![View App]](https://adityapillai.shinyapps.io/DATA2902_ShinyApp/?_ga=2.84078681.1171528965.1625547827-700017400.1625547827)
+[View App](https://adityapillai.shinyapps.io/DATA2902_ShinyApp/?_ga=2.84078681.1171528965.1625547827-700017400.1625547827)
 
 <p align="justify">
 Created an R Shiny app to visualise the relationship between COVID-19 and other student lifestyle factors. The following dynamic hypothesis tests were supported: Chi-squared Goodness of Fit Tests for Uniformity Tests, Chi-squared Test for Independence Tests, One sample t-test Tests and Two sample t-test for unequal population variance.
