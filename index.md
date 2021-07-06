@@ -15,6 +15,7 @@ Gathered and integrated several datasets to perform a data analysis of the viral
 ### Dynamic Hypothesis Testing App
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/apil9944/shiny-statistical-analysis)
+
 [Open App](https://adityapillai.shinyapps.io/DATA2902_ShinyApp/?_ga=2.84078681.1171528965.1625547827-700017400.1625547827)
 
 <p align="justify">
