@@ -16,7 +16,7 @@ Gathered and integrated several datasets to perform a data analysis of the viral
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/apil9944/shiny-statistical-analysis)
 
-[![View Web App](https://img.shields.io/static/v1?message=View Web App&color=blue)](https://adityapillai.shinyapps.io/DATA2902_ShinyApp/?_ga=2.84078681.1171528965.1625547827-700017400.1625547827)
+[![View Web App](https://img.shields.io/badge/View-Web_App&color=blue)](https://adityapillai.shinyapps.io/DATA2902_ShinyApp/?_ga=2.84078681.1171528965.1625547827-700017400.1625547827)
 
 <p align="justify">
 Created an R Shiny app to visualise the relationship between COVID-19 and other student lifestyle factors. The following dynamic hypothesis tests were supported: Chi-squared Goodness of Fit Tests for Uniformity Tests, Chi-squared Test for Independence Tests, One sample t-test Tests and Two sample t-test for unequal population variance.
@@ -42,7 +42,7 @@ Visualised COVID-19 data from the first several weeks of the outbreak to see at 
 ### Diabetes Prediction using Weka Classifiers
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/apil9944/diabetes-prediction-classifiers)
-[![Open Research Report](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/COMP3608 A2 - Classification.pdf)
+[![Open Research Report](https://img.shields.io/badge/PDF-Open_Research_Report-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/COMP3608 A2 - Classification.pdf)
 
 <p align="justify">
 This study aimed to assess the performance of classifiers that predict the presence of diabetes for individuals of Pima Indian heritage, with a focus on the effect of Correlation-based Feature Selection.
