@@ -16,7 +16,7 @@ Gathered and integrated several datasets to perform a data analysis of the viral
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/apil9944/shiny-statistical-analysis)
 
-[Open App](https://adityapillai.shinyapps.io/DATA2902_ShinyApp/?_ga=2.84078681.1171528965.1625547827-700017400.1625547827)
+[![View Web App](https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=blue)](https://adityapillai.shinyapps.io/DATA2902_ShinyApp/?_ga=2.84078681.1171528965.1625547827-700017400.1625547827)
 
 <p align="justify">
 Created an R Shiny app to visualise the relationship between COVID-19 and other student lifestyle factors. The following dynamic hypothesis tests were supported: Chi-squared Goodness of Fit Tests for Uniformity Tests, Chi-squared Test for Independence Tests, One sample t-test Tests and Two sample t-test for unequal population variance.
@@ -42,6 +42,7 @@ Visualised COVID-19 data from the first several weeks of the outbreak to see at 
 ### Diabetes Prediction using Weka Classifiers
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/apil9944/diabetes-prediction-classifiers)
+[![Open Research Report](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/COMP3608 A2 - Classification.pdf)
 
 <p align="justify">
 This study aimed to assess the performance of classifiers that predict the presence of diabetes for individuals of Pima Indian heritage, with a focus on the effect of Correlation-based Feature Selection.
@@ -50,7 +51,7 @@ This study aimed to assess the performance of classifiers that predict the prese
 ---
 ### Bodyfat Regression Analysis
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/apil9944/bodyfat-regression-analysis)
+[![Open Research Report](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/DATA2902-T09-0C-EARLY-1-FINAL.pdf)
 
 <p align="justify">
  A series of multiple linear regression models were developed aiming to predict body fat percentage for males based on the measurements of 250 men of various ages. The final model was selected on the basis of out of sample performance using cross-validation.
