@@ -5,6 +5,7 @@
 ### NSW COVID-19 Hotspot Analysis
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/apil9944/nsw-covid19-hotspot-analysis)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/apil9944/nsw-covid19-hotspot-analysis/blob/main/Viral-Vulnerability-Analysis-Data-Analysis%20FINAL.ipynb)
 
 <p align="justify">
 Gathered and integrated several datasets to perform a data analysis of the viral vulnerability of different neighbourhoods in Sydney. The vulnerability score was computed for all suburbs in the greater Sydney region which is a measure of several factors that affect the spread of a virus within a community such as: population density, age distribution, pre-existing health conditions, and access to healthcare services.
