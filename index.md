@@ -24,18 +24,6 @@ Created an R Shiny app to visualise the relationship between COVID-19 and other 
 
 <center><img src="images/shiny2.png"></center>
 
-
----
-### Visualising COVID-19 Outbreak
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/apil9944/visualising-covid-19)
-
-<p align="justify">
-Visualised COVID-19 data from the first several weeks of the outbreak to see at what point this virus became a global pandemic using R.
-</p>
-<center><img src="images/visualising-covid-1.png" width="230"/> <img src="images/visualising-covid-2.png" width="230"/></center>
-
-
 ---
 ## Predictive Health Analysis
 
