@@ -15,10 +15,13 @@ Gathered and integrated several datasets to perform a data analysis of the viral
 ---
 ### COVID-19 Travel Assistant App
 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/apil9944/covid19-travel-assistant)
+
 <p align="justify">
 Developed an R Shiny app that allows tourists to understand the COVID-19 risks of international travel and make informed decisions regarding their next overseas trip. The app includes a ML recommendation system that suggests recommended destinations to the user based on the country's risk profile and other factors.
 </p>
 <center><img src="images/travel-app.png"/></center>
+
 ---
 ### Dynamic Hypothesis Testing App
 
