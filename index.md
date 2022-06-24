@@ -54,4 +54,4 @@ This study aimed to assess the performance of classifiers that predict the prese
 
 This study aimed to identify which sociocultural and demographic factors best explain support for gun control in America. A logistic regression based approach was used to assess the importance of the predictors.
 
-[![Open Research Report](https://img.shields.io/badge/PDF-Open_Research_Report-blue?logo=adobe-acrobat-reader&logoColor=white)]
+[![Open Research Report](https://img.shields.io/badge/PDF-Open_Research_Report-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/DATA2902-T09-0C-EARLY-1-FINAL.pdf)
