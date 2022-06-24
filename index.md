@@ -25,7 +25,7 @@ Created an R Shiny app to visualise the relationship between COVID-19 and other 
 <center><img src="images/shiny2.png"></center>
 
 ---
-## Predictive Health Analysis
+## Research Studies
 
 ### Diabetes Prediction using Weka Classifiers
 
