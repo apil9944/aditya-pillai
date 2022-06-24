@@ -54,7 +54,6 @@ This study aimed to assess the performance of classifiers that predict the prese
 A series of multiple linear regression models were developed aiming to predict body fat percentage for males based on the measurements of 250 men of various ages. The final model was selected on the basis of out of sample performance using cross-validation.
 
 ---
-## Social Sciences
 
 ### Factors Explaining Support for Gun Control in the U.S
 
