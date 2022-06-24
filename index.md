@@ -47,4 +47,11 @@ This study aimed to assess the performance of classifiers that predict the prese
 <center><img src="images/bf-1.png"/></center>
 <center><img src="images/bf-2.png"/></center>
 
+---
 ## Social Sciences
+
+### Factors Explaining Support for Gun Control in the U.S
+
+This study aimed to identify which sociocultural and demographic factors best explain support for gun control in America. A logistic regression based approach was used to assess the importance of the predictors.
+
+[![Open Research Report](https://img.shields.io/badge/PDF-Open_Research_Report-blue?logo=adobe-acrobat-reader&logoColor=white)]
